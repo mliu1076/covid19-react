@@ -13,10 +13,10 @@ This application is designed exclusively for desktop use. While this application
 **SPECIAL NOTE: ANY CORS BROWSER EXTENSION(S) WILL INTERFERE WITH THE GOOGLE MAP API, DO NOT USE THEM WHILE RUNNING THIS APPLICATION.**
 
 Browser	Version
-Google Chrome	- Latest version
-Mozilla Firefox	- Latest version
-Microsoft Edge	- Latest version
-Safari - Latest version
+Google Chrome	- Latest version  
+Mozilla Firefox	- Latest version  
+Microsoft Edge	- Latest version  
+Safari - Latest version  
 
 Note: Mobile browsers are not officially supported and may produce layout or interaction issues.
 
@@ -74,9 +74,11 @@ git clone
 2. Install Dependencies
 
 Install all project dependencies(APIs and routing) using npm:
-npm install react-router-dom
-npm install @react-google-maps/api
-npm install @supabase/supabase-js
+```bash
+npm install react-router-dom  
+npm install @react-google-maps/api  
+npm install @supabase/supabase-js  
+```
 
 3. Set Up Environment Variables
 
