@@ -19,7 +19,7 @@ Safari - Latest version
 
 Note: Mobile browsers are not officially supported and may produce layout or interaction issues.
 
-Proper browser usage is necessary so that the application runs smoothly since all parts(including the Google Map interface) have proper screen space and display values.
+Proper browser usage is necessary so that the application runs smoothly and to ensure all parts(including the Google Map interface) have proper screen space and display values.
 
 ## **Getting Started**
 Clone this repository using:
