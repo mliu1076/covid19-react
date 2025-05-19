@@ -12,7 +12,7 @@ This application is designed exclusively for desktop use. While this application
 
 **SPECIAL NOTE: ANY CORS BROWSER EXTENSION(S) WILL INTERFERE WITH THE GOOGLE MAP API, DO NOT USE THEM WHILE RUNNING THIS APPLICATION.**
 
-Browser	Version
+Browser	Version  
 Google Chrome	- Latest version  
 Mozilla Firefox	- Latest version  
 Microsoft Edge	- Latest version  
@@ -32,7 +32,6 @@ To load a local react server to host this code, use:
 npm start
 ```
 
-Jump to the [Developer Manual](#developer-manual)
 
 ## **Developer Manual**
 Developer Manual: COVID-19 Web Application
