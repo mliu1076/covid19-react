@@ -90,7 +90,8 @@ export default function Map() {
       'Iran (Islamic Republic of)': 'Iran',
       'United States of America': 'United States',
       'Russian Federation': 'Russia',
-      'Turkiye': 'Turkey'
+      'Turkiye': 'Turkey',
+      'Congo (the Democratic Republic of the)' : 'Congo'
     };
 
     const lookupCountry =
