@@ -103,7 +103,6 @@ export default function Map() {
       .eq('country', lookupCountry)
       .eq('the_year', selectedYear)
       .single();
-    console.log('+++++++++++++++Searching for:' + countryName + selectedYear);
 
     if (error && error.code !== 'PGRST116') {
       console.error('Supabase fetch error:', error);
