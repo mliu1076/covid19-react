@@ -1,0 +1,28 @@
+.home-container {
+  text-align: center;
+  padding: 2rem;
+}
+p{
+  font-size:26px;
+}
+.api-logos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.api-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 150px;
+  text-align: center;
+}
+
+.api-logo img {
+  max-height: 160px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
