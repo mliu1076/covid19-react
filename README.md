@@ -6,12 +6,11 @@ Jump to the [Developer Manual](#developer-manual)
 
 **Target Browsers and Platforms**
 
-This application is designed exclusively for desktop use. While this application render on mobile devices, the layout and interactive features may not be fully optimized for mobile devices.
+This application is designed exclusively for desktop use. While this application render on mobile devices, the layout and interactive features may not be fully optimized for mobile devices.  
 
-**Supported Desktop Browsers**
+**SPECIAL NOTE: ANY CORS BROWSER EXTENSION(S) WILL INTERFERE WITH THE GOOGLE MAP API, DO NOT USE THEM WHILE RUNNING THIS APPLICATION.**  
 
-**SPECIAL NOTE: ANY CORS BROWSER EXTENSION(S) WILL INTERFERE WITH THE GOOGLE MAP API, DO NOT USE THEM WHILE RUNNING THIS APPLICATION.**
-
+**Supported Desktop Browsers**  
 Browser	Version  
 Google Chrome	- Latest version  
 Mozilla Firefox	- Latest version  
