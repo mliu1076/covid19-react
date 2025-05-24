@@ -35,8 +35,9 @@ npm start
 ## **Developer Manual**
 Developer Manual: COVID-19 Web Application
 
-This document provides step-by-step instructions for installing and running the COVID-19 Web Application, including setting up dependencies, environment variables, and running the local development server.
-Project Overview
+This document provides step-by-step instructions for installing and running the COVID-19 Web Application, including setting up dependencies, environment variables, and running the local development server.  
+  
+Project Overview  
 
 This application displays yearly global COVID-19 statistics(2020-2023) using:
 
