@@ -81,23 +81,23 @@ npm install @supabase/supabase-js
 3. Set Up Environment Variables
 
 Create a .env file in the root directory of the project:
-
-touch .env
-
+```bash
+touch .env  
+```
 Then add your Google Maps API and Supabase Keys to the file:
-
-REACT_APP_GOOGLE_MAPS_API_KEY=your_api_key
-REACT_APP_SUPABASE_URL=your_url
-REACT_APP_SUPABASE_KEY =your_api_key
-
+```bash
+REACT_APP_GOOGLE_MAPS_API_KEY=your_api_key  
+REACT_APP_SUPABASE_URL=your_url  
+REACT_APP_SUPABASE_KEY =your_api_key  
+```
 Reminder: environment variables in React must start with REACT_APP_.
 
 4. Run the Development Server
 
 Start the React development server:
-
-npm start
-
+```bash
+npm start  
+```
 The app will be available at:
 http://localhost:3000
 
@@ -119,7 +119,7 @@ External APIs Used
     All of these APIs use GET endpoints. Supabase gets specific COVID-19 data from the database based on user input (year and country). BigDataCloud API interprets the longitude and latitude coordinates from the user-placed Google Map Marker and
     translates it to a location. REST Countries API fetches the flag and currency details of that location's country. IP-API fetches the visting users geolocation and displays it in the bottom left-hand corner of the browser in a box.
 
-    **Ensure you stay within each API's rate limits when testing out code(I recommend caching data).**
+    Ensure you stay within each API's rate limits when testing out code(I recommend caching data).
 
 There are no tests written for this application. You are free to use can use console.log to check for proper API output and usage though.
 
