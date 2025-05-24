@@ -89,7 +89,7 @@ Then add your Google Maps API and Supabase Keys to the file:
 ```bash
 REACT_APP_GOOGLE_MAPS_API_KEY=your_api_key  
 REACT_APP_SUPABASE_URL=your_url  
-REACT_APP_SUPABASE_KEY =your_api_key  
+REACT_APP_SUPABASE_KEY=your_api_key  
 ```
 Reminder: environment variables in React must start with REACT_APP_.
 
@@ -102,7 +102,7 @@ npm start
 The app will be available at:
 http://localhost:3000
 
-5. APIs used
+5. APIs used  
 As mentioned before, only 2 of the 4 used APIs need to be installed as project dependencies through npm.
 
 External APIs Used
